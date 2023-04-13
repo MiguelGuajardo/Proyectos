@@ -1,0 +1,44 @@
+.sidebar{
+    width: 60px;
+    height: 100vh;
+    background: #282828;
+    transition-duration: .3s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sidebar a{
+    text-decoration: none;
+}
+.sidebar .hamburger{
+    width: 25px;
+    margin-top: 20px;
+    cursor: pointer;
+    color: #8f8f8f;
+}
+.sidebar .linksContainer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+}
+.sidebarOpen{
+    width: 200px;
+    height: 100vh;
+    background: #282828;
+    transition-duration: .3s;
+}
+.sidebarOpen .linksContainer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+}
+.sidebarOpen a{
+    text-decoration: none;
+}
+.sidebarOpen .hamburger{
+    width: 25px;
+    margin-top: 20px;
+    cursor: pointer;
+    margin-left: 17.5px;
+    color: #8f8f8f;
+}

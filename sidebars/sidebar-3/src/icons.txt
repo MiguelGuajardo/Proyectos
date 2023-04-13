@@ -1,0 +1,19 @@
+<span class="material-symbols-outlined">
+view_cozy
+</span>
+
+<span class="material-icons-outlined">
+archive
+</span>
+
+<span class="material-symbols-outlined">
+list
+</span>
+
+<span class="material-symbols-outlined">
+monitoring
+</span>
+
+<span class="material-symbols-outlined">
+comment
+</span>
