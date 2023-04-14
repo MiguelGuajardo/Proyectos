@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Navegation
+
+![2023-04-14-13-22-39-_online-video-cutter com_](https://user-images.githubusercontent.com/96299779/232102005-09645d5c-d41b-4bf4-a7c2-327145fe84bd.gif)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
